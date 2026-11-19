@@ -1,0 +1,9 @@
+{
+  "changed_mind_full_refund_days": 14,
+  "defect_window_days": 60,
+  "late_delivery_grace_days": 7,
+  "max_open_per_staff": 5,
+  "partial_refund_percent": 50,
+  "return_window_days": 30,
+  "review_sla_hours": 48
+}
